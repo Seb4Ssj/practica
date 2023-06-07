@@ -1,3 +1,3 @@
-elemeneto = ["pollo", "qlo", "xd", "edu qlo xupalo"]
+elemeneto = ["hola", "mundo", "xd"]
 resultado = list(map(list, elemeneto))
 print(resultado)
